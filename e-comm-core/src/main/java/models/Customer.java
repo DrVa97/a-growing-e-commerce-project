@@ -1,4 +1,4 @@
-import java.util.Collection;
+package models;
 
 public class Customer extends User
 {

@@ -1,4 +1,4 @@
-package models;
+package org.drvasile.models;
 
 public class Customer extends User
 {

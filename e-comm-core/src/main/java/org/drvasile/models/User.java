@@ -1,8 +1,8 @@
-package models;
+package org.drvasile.models;
 
 import java.util.Collection;
 
-public class User
+public class User extends Model
 {
     private Collection<Address> addresses;
 

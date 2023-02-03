@@ -1,9 +1,9 @@
-package models;
+package org.drvasile.models;
 
 import java.util.Collection;
 import java.util.Date;
 
-public class Cart
+public class Cart extends Model
 {
     private String sessionId;
 

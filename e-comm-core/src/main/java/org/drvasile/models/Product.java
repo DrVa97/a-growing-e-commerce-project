@@ -1,6 +1,6 @@
-package models;
+package org.drvasile.models;
 
-public class Product
+public class Product extends Model
 {
     private String id;
 
